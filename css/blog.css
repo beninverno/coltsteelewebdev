@@ -1,0 +1,31 @@
+* {
+    font-family: 'Francois One', sans-serif;
+    font-size: 14px;
+}
+
+.date {
+    color: skyblue;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    font-family: 'Source Code Pro', monospace;
+}
+.intro {
+    border-left: 3px solid grey;
+    padding-left: 4px;
+}
+h1 {
+    color: darkslategrey;
+    font-size: 30px;
+}
+
+#blogcontainer {
+    width: 50%;
+    margin: auto;
+    border: 15px solid darkgrey;
+    padding: 10px 20px 10px 20px;
+}
+
+p:nth-of-type(4) {
+    border-bottom: 2px solid darkgrey;
+    padding-bottom: 10px
+}
