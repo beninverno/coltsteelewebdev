@@ -1,0 +1,13 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h2 {
+    font-family: Josefin Sans;
+    margin-left: 1.66%;
+    border-bottom: 3px solid lightgray;
+    width: 30%;
+    padding-bottom: 15px;
+}
