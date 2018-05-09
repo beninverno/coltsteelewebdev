@@ -1,0 +1,33 @@
+.collapse a:hover {
+    background-color:lightgrey
+}
+
+body {
+    background: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467);
+    background-size: cover;
+    background-position: 50% 40%;
+    background-repeat: no-repeat;
+}
+
+#textbody {
+    color: ivory;
+    text-align: center;
+    padding-top: 200px;
+    text-shadow: 1px 1px 2px black;
+}
+
+#greyline {
+    border-top: 2px solid lightgrey;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
