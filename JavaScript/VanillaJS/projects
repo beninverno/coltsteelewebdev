@@ -1,0 +1,11 @@
+Projects and corresponding files for VanillaJS portion of ColtSteele's Web Development Bootcamp.
+[Stalker] stalker.html
+          stalker.js
+[Guess Game]  game.html
+              game.js
+[Annoy-O-Matic] annoy-o-matic.html
+                annoying.js
+[While Loops] whileloops.html
+              whileloops.js
+[For Loops] forloops.html
+            forloops.js (includes DOM Manipulation!)
